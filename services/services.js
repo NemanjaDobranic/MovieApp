@@ -1,7 +1,7 @@
 /* eslint-disable prettier/prettier */
 import axios from 'axios';
 const apiUrl = 'https://api.themoviedb.org/3';
-const apiKey = 'api_key=a16800a5358554e498570e544fb6d44d';
+const apiKey = 'api_key=bf683555ddf55fdde8db118de3587e65';
 
 //Get Popular Movies
 export const getPopularMovies = async () => {
